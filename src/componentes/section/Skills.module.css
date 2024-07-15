@@ -3,15 +3,19 @@
     border-radius: 10px;
     color: #21243d;
     margin-top: 50px;
+    
 }
 
 .skill img{
     height: 190px;
     margin: 20px;
+    background-color: #e5f2f5;
 }
 
 .skill h1{
     text-align: left;
     font-size: 30px;
     padding: 30px;
+    background-color: #e5f2f5;
 }
+

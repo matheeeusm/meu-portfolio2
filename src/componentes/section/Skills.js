@@ -9,13 +9,12 @@ function Skills(){
     return(
         <div className={styles.skill} id='Skills'>
             <h1>Blog</h1>
-            <div>
-                <img src={computador}/>
-                <img src={html}/>
-                <img src={css}/>
-                <img src={java}/>
-                <img src={sigla}/>
-            </div>
+            <img src={computador}/>
+            <img src={html}/>
+            <img src={css}/>
+            <img src={java}/>
+            <img src={sigla}/>
+            
         </div>
     )
 }
