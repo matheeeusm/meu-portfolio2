@@ -1,0 +1,13 @@
+.presentation{
+    text-align: left;
+}
+
+.presentation h1{
+    font-family: 'Heebo';
+    color: #21243d;    
+}
+
+.presentation p{
+    color: #21243d;
+    font-size: 15px;
+}

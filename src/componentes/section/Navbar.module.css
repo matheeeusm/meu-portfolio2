@@ -1,0 +1,18 @@
+.navbar{
+    display: flex;
+    text-align: right;
+    margin-left: 1100px;
+    font-family: 'Heebo';
+    font-size: 20px;
+   
+}
+
+.navbar ul{
+    display: flex;
+    list-style: none;
+    margin-top: 0px; 
+}
+ 
+.navbar li{
+    margin: 15px;
+}
